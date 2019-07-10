@@ -1,0 +1,2 @@
+# aamu-generator
+Generoi aamuja

@@ -6,8 +6,8 @@ m = ['m']
 u = ['u', 'ù', 'ú', 'ü', 'ŭ']  # ůűûūũ
 j = ['j', 'ĵ']
 
-# total_combinations = len(a)
-# for x in [A, a, m, u, j]:
+# total_combinations = 1
+# for x in [A, a, m, u, j, a]:
 #     total_combinations = total_combinations * len(x)
 
 # print(total_combinations)
